@@ -10,7 +10,7 @@
   <head>
     <title>标题</title>
   </head>
-  <body bgcolor="green">
+  <body>
  Hello World!
   </body>
 </html>
