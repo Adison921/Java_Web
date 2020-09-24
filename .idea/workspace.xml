@@ -79,21 +79,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Study\Java\Java_Web\Html&amp;Css" />
+      <recent name="E:\Study\Java\Java_Web\html" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Study\Java\Java_Web\imgs" />
       <recent name="E:\Study\Java\Java_Web" />
       <recent name="E:\Study\Java\Java_Web\05_Web\web\WEB-INF\lib" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Study\Java\Java_Web\Html&amp;Css" />
-      <recent name="E:\Study\Java\Java_Web\html" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.表单.html">
@@ -248,7 +248,7 @@
       <workItem from="1600834023102" duration="249000" />
       <workItem from="1600855804914" duration="212000" />
       <workItem from="1600861579686" duration="5153000" />
-      <workItem from="1600935521423" duration="4247000" />
+      <workItem from="1600935521423" duration="6008000" />
     </task>
     <servers />
   </component>
