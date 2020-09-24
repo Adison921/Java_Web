@@ -96,7 +96,7 @@
       <recent name="E:\Study\Java\Java_Web\html" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.6.表格标签.html">
+  <component name="RunManager" selected="JavaScript Debug.表单.html">
     <configuration name="6.表格标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/html/6.表格标签.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -188,13 +188,13 @@
       <item itemvalue="JavaScript Debug.8.iframe标签.html" />
       <item itemvalue="JavaScript Debug.Hello.html (1)" />
       <item itemvalue="JavaScript Debug.表单.html" />
-      <item itemvalue="Tomcat Server.05_Web" />
       <item itemvalue="JavaScript Debug.6.表格标签.html" />
+      <item itemvalue="Tomcat Server.05_Web" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.6.表格标签.html" />
         <item itemvalue="JavaScript Debug.表单.html" />
+        <item itemvalue="JavaScript Debug.6.表格标签.html" />
         <item itemvalue="JavaScript Debug.Hello.html (1)" />
         <item itemvalue="JavaScript Debug.7.表格跨行跨列.html" />
         <item itemvalue="JavaScript Debug.8.iframe标签.html" />
@@ -248,6 +248,7 @@
       <workItem from="1600834023102" duration="249000" />
       <workItem from="1600855804914" duration="212000" />
       <workItem from="1600861579686" duration="5153000" />
+      <workItem from="1600935521423" duration="4247000" />
     </task>
     <servers />
   </component>
