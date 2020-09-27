@@ -7,13 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0caa0304-c3a0-4eba-8b00-90beb7c4fdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Html&amp;Css/CSS基本语法优化(link).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html&amp;Css/CSS基本语法优化.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html&amp;Css/html/10.Others.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html&amp;Css/link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html&amp;Css/表单提交的细节.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html&amp;Css/css/01.CSS基本语法.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html&amp;Css/css/01.CSS基本语法.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html&amp;Css/css/02.标签名选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html&amp;Css/css/02.标签名选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html&amp;Css/css/03.ID选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html&amp;Css/css/03.ID选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html&amp;Css/css/04.class类型选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html&amp;Css/css/04.class类型选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html&amp;Css/表单提交的细节.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html&amp;Css/表单提交的细节.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,8 +96,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="13" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Html&amp;Css" />
+    <property name="jdk.selected.JAVA_MODULE" value="14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaEE_HomeWork" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -119,19 +117,19 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.CSS基本语法优化(link).html">
-    <configuration name="01.CSS基本语法.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/css/01.CSS基本语法.html" useBuiltInWebServerPort="true">
+    <configuration name="02.标签名选择器.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/css/02.标签名选择器.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="CSS基本语法优化.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/CSS基本语法优化.html" useBuiltInWebServerPort="true">
+    <configuration name="03.ID选择器.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/css/03.ID选择器.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="04.class类型选择器.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/css/04.class类型选择器.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="CSS基本语法优化(link).html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/CSS基本语法优化(link).html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Hello.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/html/Hello.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="表单.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/表单.html" useBuiltInWebServerPort="true">
+    <configuration name="表单提交的细节.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/表单提交的细节.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="表单提交的细节.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/表单提交的细节.html" useBuiltInWebServerPort="true">
@@ -215,20 +213,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.Hello.html (1)" />
-      <item itemvalue="JavaScript Debug.表单.html" />
-      <item itemvalue="Tomcat Server.05_Web" />
-      <item itemvalue="JavaScript Debug.01.CSS基本语法.html" />
-      <item itemvalue="JavaScript Debug.CSS基本语法优化.html" />
       <item itemvalue="JavaScript Debug.CSS基本语法优化(link).html" />
+      <item itemvalue="Tomcat Server.05_Web" />
+      <item itemvalue="JavaScript Debug.表单提交的细节.html" />
+      <item itemvalue="JavaScript Debug.02.标签名选择器.html" />
+      <item itemvalue="JavaScript Debug.03.ID选择器.html" />
+      <item itemvalue="JavaScript Debug.04.class类型选择器.html" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.CSS基本语法优化(link).html" />
-        <item itemvalue="JavaScript Debug.CSS基本语法优化.html" />
-        <item itemvalue="JavaScript Debug.01.CSS基本语法.html" />
-        <item itemvalue="JavaScript Debug.表单.html" />
-        <item itemvalue="JavaScript Debug.Hello.html (1)" />
+        <item itemvalue="JavaScript Debug.04.class类型选择器.html" />
+        <item itemvalue="JavaScript Debug.表单提交的细节.html" />
+        <item itemvalue="JavaScript Debug.03.ID选择器.html" />
+        <item itemvalue="JavaScript Debug.02.标签名选择器.html" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +282,8 @@
       <workItem from="1600998735498" duration="5545000" />
       <workItem from="1601013309911" duration="5043000" />
       <workItem from="1601041863024" duration="1003000" />
-      <workItem from="1601086855120" duration="3051000" />
+      <workItem from="1601086855120" duration="6191000" />
+      <workItem from="1601174586889" duration="7343000" />
     </task>
     <servers />
   </component>
@@ -311,11 +310,11 @@
     </state>
     <state x="206" y="84" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1600411899461" />
     <state x="258" y="106" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1040@0.0.1920.1040" timestamp="1600604114518" />
-    <state x="685" y="352" key="FileChooserDialogImpl" timestamp="1600750458320">
+    <state x="685" y="352" key="FileChooserDialogImpl" timestamp="1601178682919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="548" y="279" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600411605773" />
-    <state x="685" y="352" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600750458320" />
+    <state x="685" y="352" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601178682919" />
     <state x="736" y="440" key="Github.ShareDialog" timestamp="1600590768285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -389,10 +388,10 @@
     </state>
     <state x="115" y="40" width="1297" height="774" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601016209180" />
     <state x="233" y="118" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600750463989" />
-    <state x="197" y="113" key="new project wizard" timestamp="1600748366871">
+    <state x="197" y="113" key="new project wizard" timestamp="1601103132248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="197" y="113" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600748366871" />
+    <state x="197" y="113" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1601103132248" />
     <state x="408" y="322" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1600750461961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
