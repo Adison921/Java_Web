@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0caa0304-c3a0-4eba-8b00-90beb7c4fdb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Html&amp;Css/css/ul的三种居中方式.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html&amp;Css/css/05.组合选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html&amp;Css/css/05.组合选择器.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Html&amp;Css/css/06-css常用样式.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html&amp;Css/css/06-css常用样式.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +56,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -282,7 +282,7 @@
       <workItem from="1601041863024" duration="1003000" />
       <workItem from="1601086855120" duration="6191000" />
       <workItem from="1601174586889" duration="9957000" />
-      <workItem from="1601308134124" duration="2092000" />
+      <workItem from="1601308134124" duration="2689000" />
     </task>
     <servers />
   </component>
