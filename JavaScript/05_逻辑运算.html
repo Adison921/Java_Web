@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        // 在JavaScript中，所有类型的变量都可以当作Boolean类型变量去使用
+        // 0，null,undefined,""都被认为是空值。
+        var a = 0;
+        if(a){
+            alert("零为真");
+        }
+        else{
+            alert("零为假");
+        }
+
+    //     且运算&&:
+    //     1.当表达式全为真的时候，返回最后一个真的表达式的值
+    //     2.当表达式有一个为假的时候，返回第一个假的表达式的值
+
+        var a = "abc";
+        var b = true;
+        var c = false;
+        var d = null;
+         alert(a && b);
+         alert(b && a);
+         alert(a && c);
+         alert(a && c);
+         alert(a && c && d);
+
+        //     且运算||
+        //     1.当表达式全为假的时候，返回最后一个假的表达式的值
+        //     2.当表达式有一个为真的时候，返回第一个真的表达式的值
+
+        var a = "abc";
+        var b = true;
+        var c = false;
+        var d = null;
+        alert(a && b);
+        alert(b && a);
+        alert(a && c);
+        alert(a && c);
+        alert(a && c && d);
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

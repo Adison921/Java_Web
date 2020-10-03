@@ -7,10 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0caa0304-c3a0-4eba-8b00-90beb7c4fdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaScript_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/01_Hello.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/02_Hello(js).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/03_变量.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/04_关系运算.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/05_逻辑运算.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Js_Hello.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/01_Hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/01_Hello.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +61,7 @@
       <list>
         <option value="Class" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -101,7 +105,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -115,17 +119,17 @@
       <recent name="E:\Study\Java\Java_Web\html" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.50">
-    <configuration name="04.class类型选择器.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/css/04.class类型选择器.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.04_关系运算.html">
+    <configuration name="02_Hello(js).html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/JavaScript/02_Hello(js).html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="05.组合选择器.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/css/05.组合选择器.html" useBuiltInWebServerPort="true">
+    <configuration name="03_变量.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/JavaScript/03_变量.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="04_关系运算.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/JavaScript/04_关系运算.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="06-css常用样式.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/css/06-css常用样式.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="CSS基本语法优化(link).html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/CSS基本语法优化(link).html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="表单提交的细节.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java_Web/Html&amp;Css/表单提交的细节.html" useBuiltInWebServerPort="true">
@@ -233,21 +237,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.CSS基本语法优化(link).html" />
       <item itemvalue="JavaScript Debug.表单提交的细节.html" />
-      <item itemvalue="JavaScript Debug.04.class类型选择器.html" />
-      <item itemvalue="JavaScript Debug.05.组合选择器.html" />
       <item itemvalue="JavaScript Debug.06-css常用样式.html" />
+      <item itemvalue="JavaScript Debug.02_Hello(js).html" />
+      <item itemvalue="JavaScript Debug.03_变量.html" />
+      <item itemvalue="JavaScript Debug.04_关系运算.html" />
       <item itemvalue="Tomcat Server.05_Web" />
       <item itemvalue="Tomcat Server.Tomcat 8.0.50" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.04_关系运算.html" />
+        <item itemvalue="JavaScript Debug.03_变量.html" />
+        <item itemvalue="JavaScript Debug.02_Hello(js).html" />
         <item itemvalue="JavaScript Debug.表单提交的细节.html" />
         <item itemvalue="JavaScript Debug.06-css常用样式.html" />
-        <item itemvalue="JavaScript Debug.05.组合选择器.html" />
-        <item itemvalue="JavaScript Debug.CSS基本语法优化(link).html" />
-        <item itemvalue="JavaScript Debug.04.class类型选择器.html" />
       </list>
     </recent_temporary>
   </component>
@@ -306,6 +310,10 @@
       <workItem from="1601086855120" duration="6191000" />
       <workItem from="1601174586889" duration="9957000" />
       <workItem from="1601308134124" duration="3804000" />
+      <workItem from="1601345799528" duration="4908000" />
+      <workItem from="1601447707939" duration="1402000" />
+      <workItem from="1601536971736" duration="13963000" />
+      <workItem from="1601644226476" duration="755000" />
     </task>
     <servers />
   </component>
@@ -313,6 +321,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Notifications" timestamp="1601544582724">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1601544582724" />
     <state x="398" y="142" width="816" height="672" key="#Tomcat_Server" timestamp="1600411611423">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -405,22 +417,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1600590098063" />
-    <state x="115" y="40" width="1297" height="774" key="SettingsEditor" timestamp="1601016209180">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="115" y="42" width="1297" height="774" key="SettingsEditor" timestamp="1601537068142">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="115" y="40" width="1297" height="774" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601016209180" />
+    <state x="115" y="42" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1601537068142" />
     <state x="233" y="118" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600750463989" />
     <state x="197" y="113" key="new project wizard" timestamp="1601311709652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="197" y="113" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1601311709652" />
-    <state x="408" y="322" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1600750461961">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="326" y="268" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1601537066817">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="326" y="268" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" timestamp="1601537066817" />
     <state x="408" y="322" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600750461961" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600734744246">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1601544959472">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600734744246" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1601544959472" />
   </component>
 </project>
