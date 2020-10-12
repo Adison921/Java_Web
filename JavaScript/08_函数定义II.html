@@ -1,13 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-    <script type="text/javascript">
-
-    </script>
-</head>
+<html>
 <body>
+
+<script>
+    document.write("<h1 id='demo01'>My First Web Page</h1>");
+    document.write("<p>My First Paragraph.</p>");
+    function myFunction()
+    {
+        document.getElementById("demo01").innerHTML="My first"
+    }
+</script>
+
+
+
+<button onclick="myFunction()">Try it</button>
+
+
 
 </body>
 </html>
