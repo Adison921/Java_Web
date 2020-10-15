@@ -7,15 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0caa0304-c3a0-4eba-8b00-90beb7c4fdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript/09_js不允许函数重载.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/10_隐形函数arguments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/11_js自定义对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/12_js花括号自定义对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/13_js中的事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/14_事件的注册.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/events事件/onclick_event.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/events事件/onload_events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/events事件/onblur_events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/events事件/onchange_event.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/events事件/onclick_event.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/events事件/onclick_event.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -330,6 +325,8 @@
       <workItem from="1602254934546" duration="2373000" />
       <workItem from="1602606337509" duration="2508000" />
       <workItem from="1602659639904" duration="11890000" />
+      <workItem from="1602694981204" duration="23000" />
+      <workItem from="1602749827283" duration="2933000" />
     </task>
     <servers />
   </component>

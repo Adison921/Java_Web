@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        //静态注册
+        function onchangeFun() {
+            alert("ta已经改变了");
+        }
+
+        //动态注册
+        window.onload = function () {
+            var selectObj = document.getElementById("nan");
+
+            selectObj.onchange = function () {
+                alert("ta已经改变了");
+            }
+        }
+    </script>
+</head>
+<body>
+请选择你的女神:
+<!--静态注册onchange事件-->
+<select onchange="onchangeFun()">
+    <option>111</option>
+    <option>222</option>
+    <option>333</option>
+    <option>444</option>
+</select>
+
+请选择你的男神:
+<!--动态注册onchange事件-->
+<select id="nan">
+    <option>111</option>
+    <option>222</option>
+    <option>333</option>
+    <option>444</option>
+</select>
+</body>
+</html>
