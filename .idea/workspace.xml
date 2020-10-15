@@ -7,10 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0caa0304-c3a0-4eba-8b00-90beb7c4fdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript/events事件/onblur_events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/events事件/onchange_event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/events事件/onsubmit_events.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/events事件/onclick_event.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/events事件/onclick_event.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/14_事件的注册.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/14_事件的注册.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,7 +325,8 @@
       <workItem from="1602606337509" duration="2508000" />
       <workItem from="1602659639904" duration="11890000" />
       <workItem from="1602694981204" duration="23000" />
-      <workItem from="1602749827283" duration="2933000" />
+      <workItem from="1602749827283" duration="3427000" />
+      <workItem from="1602767776140" duration="3315000" />
     </task>
     <servers />
   </component>
@@ -357,10 +357,10 @@
     </state>
     <state x="206" y="84" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1600411899461" />
     <state x="258" y="106" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1040@0.0.1920.1040" timestamp="1600604114518" />
-    <state x="685" y="352" key="FileChooserDialogImpl" timestamp="1602254950068">
+    <state x="685" y="352" key="FileChooserDialogImpl" timestamp="1602769453032">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="685" y="352" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602254950068" />
+    <state x="685" y="352" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602769453032" />
     <state x="548" y="279" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601942499920" />
     <state x="685" y="352" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602075257612" />
     <state x="736" y="440" key="Github.ShareDialog" timestamp="1600590768285">
