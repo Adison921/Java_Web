@@ -11,8 +11,10 @@
         function onclickFun() {
             // 1 当我们要操作一个标签的时候，一定要先获取这个标签对象。
             var usernameObj = document.getElementById("username");
+
             // [object HTMLInputElement] 它就是dom对象
             var usernameText = usernameObj.value;
+
             // 如何 验证 字符串，符合某个规则 ，需要使用正则表达式技术
             var patt = /^\w{5,12}$/;
             /*
@@ -23,6 +25,7 @@
             var usernameSpanObj = document.getElementById("usernameSpan");
             // innerHTML 表示起始标签和结束标签中的内容
             // innerHTML 这个属性可读，可写
+
             usernameSpanObj.innerHTML = "Hello!";
 
             if (patt.test(usernameText)) {
