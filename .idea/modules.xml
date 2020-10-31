@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/05_Web/05_Web.iml" filepath="$PROJECT_DIR$/05_Web/05_Web.iml" />
       <module fileurl="file://$PROJECT_DIR$/Html&amp;Css/Html&amp;Css.iml" filepath="$PROJECT_DIR$/Html&amp;Css/Html&amp;Css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JQuery/JQuery.iml" filepath="$PROJECT_DIR$/JQuery/JQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSON&amp;AJax/JSON&amp;AJax.iml" filepath="$PROJECT_DIR$/JSON&amp;AJax/JSON&amp;AJax.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaScript/JavaScript.iml" filepath="$PROJECT_DIR$/JavaScript/JavaScript.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Web.iml" filepath="$PROJECT_DIR$/Java_Web.iml" />
     </modules>
